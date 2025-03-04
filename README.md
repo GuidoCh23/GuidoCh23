@@ -1,3 +1,4 @@
+<h1>Hi 👋, I'm Guido Anthony Chipana Calderon</h1>
 # 💫 About Me:
 💻 Computer Science Student at the National University of Engineering, Peru<br>📡 I'm currently working on developing AI models for machine learning and deep learning applications.<br>🤝 I'm looking to collaborate on open-source AI projects and research in artificial intelligence.<br>✋ I'm looking for help with advanced deep learning techniques, LLMs and model optimization.<br>🌱 I'm currently learning Large Language Models (LLMs) and computer vision.<br>💬 Ask me about AI, machine learning, deep learning and data science.<br>⚡ Fun fact: AI models are only as smart as the data they are trained on! 🚀
 
